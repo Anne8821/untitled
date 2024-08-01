@@ -4,7 +4,6 @@ public class Main {
         var a = 1;
         if (a <= 0) {
             System.out.println("Число отрицательное")
-
         }
     }
 }
